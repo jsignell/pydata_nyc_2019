@@ -1,0 +1,29 @@
+name: pydata_nyc_2019
+channels:
+  - conda-forge
+dependencies:
+  - bokeh=1.3.4
+  - cartopy=0.17.0
+  - colorcet=2.0.1
+  - datashader=0.8.0
+  - fastparquet=0.3.2
+  - geopandas=0.6.1
+  - geoviews=1.6.5
+  - holoviews=1.12.6
+  - hvplot=0.5.2
+  - intake=0.5.3
+  - intake-parquet
+  - intake-xarray=0.3.1
+  - ipywidgets
+  - numpy=1.17.3
+  - pandas=0.25.2
+  - panel=0.6.4
+  - pip=19.3.1
+  - python=3.7.3
+  - rasterio=1.1.0
+  - s3fs=0.3.5
+  - tqdm=4.36.1
+  - xarray=0.14.0
+  - pip:
+    - jupyter-panel-proxy
+    - rio-toa==0.3.0
