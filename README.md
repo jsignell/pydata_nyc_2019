@@ -19,6 +19,9 @@ jupyter labextension install @pyviz/jupyterlab_pyviz
 jupyter lab
 ```
 
+### Recording
+A recording of this talk can be found here: https://www.youtube.com/watch?v=YG4UJ7C65jM
+
 ### About me
 
 I am a software developer at Anaconda Inc. currently working on developing best
@@ -27,3 +30,4 @@ practices for Python-using earth scientists. I work on visualization tools withi
 broader PyData world. I live in Philadelphia and previously did hydrology research at
 Princeton - studying lightning and rain patterns, water movement through the landscape,
 and streamflow.
+
